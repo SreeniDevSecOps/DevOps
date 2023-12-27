@@ -1,1 +1,1 @@
-## Refer [here](https://github.com/verma-kunal/DevOps-90/blob/main/Journey/OSI-Model/Network-layer.md)
+## Refer [here](https://github.com/SreeniDevSecOps/DevOps/blob/main/Journey/OSI-Model/Network-layer.md)

@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"github.com/verma-kunal/servingHTML/pkg/render"
+	"github.com/SreeniDevSecOps/DevOps/servingHTML/pkg/render"
 	"net/http"
 )
 

@@ -1,3 +1,3 @@
-module github.com/verma-kunal/learningPackages
+module github.com/SreeniDevSecOps/DevOps/learningPackages
 
 go 1.18

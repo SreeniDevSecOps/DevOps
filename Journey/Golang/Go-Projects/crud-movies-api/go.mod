@@ -1,4 +1,4 @@
-module github.com/verma-kunal/crud-api
+module github.com/SreeniDevSecOps/DevOps/crud-api
 
 go 1.18
 

@@ -1,3 +1,3 @@
-module github.com/verma-kunal/servingHTML
+module github.com/SreeniDevSecOps/DevOps/servingHTML
 
 go 1.18

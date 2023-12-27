@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/verma-kunal/servingHTML/pkg/handlers"
+	"github.com/SreeniDevSecOps/DevOps/servingHTML/pkg/handlers"
 	"log"
 	"net/http"
 )

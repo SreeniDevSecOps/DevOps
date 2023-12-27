@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/verma-kunal/learningPackages/testPackage"
+	"github.com/SreeniDevSecOps/DevOps/learningPackages/testPackage"
 	"log"
 )
 

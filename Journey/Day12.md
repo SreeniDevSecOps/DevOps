@@ -243,7 +243,7 @@
     - Example:
         
         ```bash
-        git clone git@github.com:verma-kunal/PingIO
+        git clone git@github.com:SreeniDevSecOps/DevOps/PingIO
         ```
         
         ![](https://i.imgur.com/QShuP6F.png)
